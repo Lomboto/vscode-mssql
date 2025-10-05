@@ -111,7 +111,7 @@
   "dependencies": {
     "@azure/arm-resources": "^5.0.0",
     "@azure/arm-sql": "^9.0.0",
-    "@azure/arm-subscriptions": "^5.0.0",
+    "@azure/arm-subscriptions": "^5.1.1",
     "@azure/msal-common": "^11.0.0",
     "@azure/msal-node": "^1.16.0",
     "@microsoft/ads-adal-library": "1.0.17",
