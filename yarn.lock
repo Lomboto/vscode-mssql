@@ -1987,7 +1987,7 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-extract-opts@^3.2.0:
+extract-opts@^3.3.1:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/extract-opts/-/extract-opts-3.4.0.tgz#ab07a7873896a1a7e350f27e2d52645c2ceba9ac"
   integrity sha512-M7Y+1cJDkzOWqvGH5F/V2qgkD6+uitW3NV9rQGl+pLSVuXZ4IDDQgxxMeLPKcWUyfypBWczIILiroSuhXG7Ytg==
@@ -2321,12 +2321,13 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-getmac@1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/getmac/-/getmac-1.2.1.tgz#0d095fd0627850043eac1dcfa0b120bbdc1426d1"
-  integrity sha1-DQlf0GJ4UAQ+rB3PoLEgu9wUJtE=
+getmac@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/getmac/-/getmac-1.5.0.tgz#d07d09f75e6a12a921007be106e74a69110c9053"
+  integrity sha512-J3/sNFjlVS7/KyS5L70nvubmhpELgz2V/Izd/fjmhmTujT1IKCyw7njHDxTVJNSalVwwaTSz0hA0Wb8S18daEQ==
   dependencies:
-    extract-opts "^3.2.0"
+    editions "^2.2.0"
+    extract-opts "^3.3.1"
 
 getpass@^0.1.1:
   version "0.1.7"
