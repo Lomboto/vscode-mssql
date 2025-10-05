@@ -109,7 +109,7 @@
     "yargs": "https://registry.npmjs.org/yargs/-/yargs-3.32.0.tgz"
   },
   "dependencies": {
-    "@azure/arm-resources": "^5.0.0",
+    "@azure/arm-resources": "^5.2.0",
     "@azure/arm-sql": "^9.0.0",
     "@azure/arm-subscriptions": "^5.0.0",
     "@azure/msal-common": "^11.0.0",
