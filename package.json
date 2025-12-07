@@ -113,7 +113,7 @@
     "@azure/arm-sql": "^9.0.0",
     "@azure/arm-subscriptions": "^5.0.0",
     "@azure/msal-common": "^11.0.0",
-    "@azure/msal-node": "^1.16.0",
+    "@azure/msal-node": "^2.0.0",
     "@microsoft/ads-adal-library": "1.0.17",
     "http-proxy-agent": "5.0.0",
     "https-proxy-agent": "5.0.0",
